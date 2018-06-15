@@ -22,3 +22,11 @@ use [like-on-github](https://github.com/willowj/like-on-github) modified from [I
       > 
       > Example
 
+
+
+ - ##### <**collect**> [js获取鼠标选中的文字 - 荔枝龙眼 - 博客园](https://www.cnblogs.com/yigeqi/p/3988705.html)    2018/6/15 
+    - note: test33333
+    - > document.selection.createRange().text; IE9以下使用
+      > 
+      > window.getSelection().toString(); 其他浏览器使用
+
