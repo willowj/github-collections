@@ -2,6 +2,20 @@
 collect to github repo 
 use [like-on-github](https://github.com/willowj/like-on-github) modified from [Idnan](https://github.com/Idnan/like-on-github)
  
+### _<**JQUERY**>
+
+
+ - ##### <**jquery**> [jQuery获取Select选择的Text和 Value(转) - yaoshiyou - 博客园](https://www.cnblogs.com/yaoshiyou/archive/2010/08/24/1806939.html)    2018/6/15 
+    - note: test4444
+    - >     jQuery获取Select选择的Text和Value:
+      > 语法解释：
+      > 1. $("#select_id").change(function(){//code...});   //为Select添加事件，当选择其中一项时触发
+      > 2. var checkText=$("#select_id").find("option:selected").text();  //获取Select选择的Text
+      > 3. var checkValue=$("#select_id").val();  //获取Select选择的Value
+      > 4. var checkIndex=$("#select_id ").get(0).selectedIndex;  //获取Select选择的索引值
+      > 5. var maxIndex=$("#select_id option:last").attr("index");  //获取Select最大的索引值
+      > jQuery设置Select选择的 Text和Value:
+
 ### _<**COLLECT**>
 
 
