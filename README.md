@@ -54,3 +54,9 @@ use [like-on-github](https://github.com/willowj/like-on-github) modified from [I
       > avajs/ava
       > 🚀 Futuristic JavaScript test runner
 
+
+
+ - ##### <**collect**> [jqury is hiden - Google 搜索](https://www.google.pl/search?ei=PcAjW4D7LbHJ0PEPrIq7kA4&q=jqury+is+hiden&oq=jqury+is+hiden&gs_l=psy-ab.12...0.0.3.392.0.0.0.0.0.0.0.0..0.0....0...1..64.psy-ab..0.0.0....0.QyPwB6CAfI4)    2018/6/15 
+    - note: 
+      >  
+
