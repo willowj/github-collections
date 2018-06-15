@@ -44,3 +44,13 @@ use [like-on-github](https://github.com/willowj/like-on-github) modified from [I
       > 
       > window.getSelection().toString(); 其他浏览器使用
 
+
+
+ - ##### <**collect**> [sindresorhus (Sindre Sorhus)](https://github.com/sindresorhus)    2018/6/15 
+    - note: 萨迪克基本
+      > 
+    - > Pinned repositories 
+      > 
+      > avajs/ava
+      > 🚀 Futuristic JavaScript test runner
+
