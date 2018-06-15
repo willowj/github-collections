@@ -13,3 +13,12 @@ use [like-on-github](https://github.com/willowj/like-on-github) modified from [I
       > The input doesn't contain any classes. Did you specify the proper '-injars' options? Error: The output jar is empty. Did you specify the proper '-keep' options? <head> <meta http-equiv=...
       > www.iteye.com/topic... - 2006-12-1 - 快照
 
+
+
+ - ##### <**collect**> [HTML Form Elements](https://www.w3schools.com/html/html_form_elements.asp)    2018/6/15 
+    - note: test2222
+    - > The <textarea> Element
+      > The <textarea> element defines a multi-line input field (a text area):
+      > 
+      > Example
+
