@@ -16,35 +16,18 @@ use [like-on-github](https://github.com/willowj/like-on-github) modified from [I
 
 
 
- - ##### <**linux tools**> [Build instructions · cboxdoerfer/fsearch Wiki](https://github.com/cboxdoerfer/fsearch/wiki/Build-instructions)    2018/6/17 
-    - note:  file search tool for unix like system
-      > 
-
-
 
  - ##### <**linux tools**> [Build instructions · cboxdoerfer/fsearch Wiki](https://github.com/cboxdoerfer/fsearch/wiki/Build-instructions)    2018/6/17 
     - note:  file search tool for unix like system
       > 
-      > 
-      > 
 
-
-
- - ##### <**linux tools**> [Build instructions · cboxdoerfer/fsearch Wiki](https://github.com/cboxdoerfer/fsearch/wiki/Build-instructions)    2018/6/17 
-    - note:  file search tool for unix like system
-      > 
-      > 
-      > 
-      > 
 
 ### _<**DOCS**>
-
 
  - ##### <**DOCS**> [git命令大全](https://gist.github.com/guweigang/9848271)    2018/6/16 
     - note:  
 
 ### _<**PYTHON**>
-
 
  - ##### <**python**> [Python 中 import 的机制与实现 - Python - 伯乐在线](http://python.jobbole.com/82604/)    2018/6/16 
     - note:  import hook ,lazy import
@@ -81,14 +64,12 @@ use [like-on-github](https://github.com/willowj/like-on-github) modified from [I
       > sys.meta_path.append(LazyFinder())
       > ```
 
-### _<**ONLINE COMPILE **>
+### _<**ONLINE COMPILE**>
 
-
- - ##### <**online compile **> [Compile and Execute C Online](http://www.compileonline.com/compile_c_online.php)    2018/6/16 
+ - ##### <**online compile**> [Compile and Execute C Online](http://www.compileonline.com/compile_c_online.php)    2018/6/16 
     - note:  
 
 ### _<**WINPC-TOOLS**>
-
 
  - ##### <**winpc-tools**> [zhongyang219/TrafficMonitor: 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。](https://github.com/zhongyang219/TrafficMonitor)    2018/6/16 
     - > Traffic Monitor是一款用于Windows平台的网速监控悬浮窗软件，可以显示当前网速、CPU及内存利用率，支持嵌入到任务栏显示，支持更换皮肤、历史流量统计等功能。
@@ -147,50 +128,8 @@ use [like-on-github](https://github.com/willowj/like-on-github) modified from [I
 
 
 
- - ##### <**collect**> [jqury is hiden - Google 搜索](https://www.google.pl/search?ei=PcAjW4D7LbHJ0PEPrIq7kA4&q=jqury+is+hiden&oq=jqury+is+hiden&gs_l=psy-ab.12...0.0.3.392.0.0.0.0.0.0.0.0..0.0....0...1..64.psy-ab..0.0.0....0.QyPwB6CAfI4)    2018/6/15 
-    - note: 
-      >  
-
-
-
- - ##### <**collect**> [jqury is hiden - Google 搜索](https://www.google.pl/search?ei=PcAjW4D7LbHJ0PEPrIq7kA4&q=jqury+is+hiden&oq=jqury+is+hiden&gs_l=psy-ab.12...0.0.3.392.0.0.0.0.0.0.0.0..0.0....0...1..64.psy-ab..0.0.0....0.QyPwB6CAfI4)    2018/6/15 
-    - note: 
-      > 
-      >  
-
-
 
  - ##### <**collect**> [erguotou520/electron-ssr: Shadowsocksr client using electron](https://github.com/erguotou520/electron-ssr)    2018/6/16 
     - note: 
       >  
-
-
-
-
-
- - ##### <**collect**> [C - voidtools](https://www.voidtools.com/support/everything/sdk/c/)    2018/6/17 
-    - > C
-      > Make sure to link to Everything32.lib or Everything64.lib.
-      > Copy Everything32.dll or Everything64.dll to your programs executable directory.
-      > 
-
-
-
- - ##### <**collect**> [C - voidtools](https://www.voidtools.com/support/everything/sdk/c/)    2018/6/17 
-    - > C
-      > Make sure to link to Everything32.lib or Everything64.lib.
-      > Copy Everything32.dll or Everything64.dll to your programs executable directory.
-      > 
-
-
-
- - ##### <**collect**> [C - voidtools](https://www.voidtools.com/support/everything/sdk/c/)    2018/6/17 
-    - > C
-      > Make sure to link to Everything32.lib or Everything64.lib.
-      > Copy Everything32.dll or Everything64.dll to your programs executable directory.
-      > 
-
-
-
- - ##### <**collect**> [C - voidtools](https://www.voidtools.com/support/everything/sdk/c/)    2018/6/17 
-
+ 
