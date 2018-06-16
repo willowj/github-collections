@@ -2,6 +2,12 @@
 collect to github repo 
 use [like-on-github](https://github.com/willowj/like-on-github) modified from [Idnan](https://github.com/Idnan/like-on-github)
  
+### _<**LINUX TOOLS**>
+
+
+ - ##### <**linux tools**> [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf#arch-linux)    2018/6/17 
+    - note:  
+
 ### _<**DOCS**>
 
 
