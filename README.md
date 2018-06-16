@@ -14,6 +14,12 @@ use [like-on-github](https://github.com/willowj/like-on-github) modified from [I
  - ##### <**linux tools**> [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf#arch-linux)    2018/6/17 
     - note:  
 
+
+
+ - ##### <**linux tools**> [Build instructions · cboxdoerfer/fsearch Wiki](https://github.com/cboxdoerfer/fsearch/wiki/Build-instructions)    2018/6/17 
+    - note:  file search tool for unix like system
+      > 
+
 ### _<**DOCS**>
 
 
