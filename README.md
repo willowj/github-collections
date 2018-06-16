@@ -2,6 +2,72 @@
 collect to github repo 
 use [like-on-github](https://github.com/willowj/like-on-github) modified from [Idnan](https://github.com/Idnan/like-on-github)
  
+### _<**PYTHON**>
+
+
+ - ##### <**python**> [Python 中 import 的机制与实现 - Python - 伯乐在线](http://python.jobbole.com/82604/)    2018/6/16 
+    - note:  import hook ,lazy import
+    - > 
+      > 2
+      > 3
+      > 4
+      > 5
+      > 6
+      > 7
+      > 8
+      > 9
+      > 10
+      > 11
+      > 12
+      > 13
+      > 14
+      > 15
+      > 16
+      > 17
+      > 18
+      > 19
+      > 20
+      > 21
+      > 22
+      > 23
+      > 24
+      > 25
+      > 26
+      > 27
+      > 28
+      > 29
+      > 30
+      > import sys
+      > import imp
+      >  
+      > _lazy_modules = {}
+      >  
+      > class LazyModule():
+      >     def __init__(self, name):
+      >         self.name = name
+      >  
+      >     def __getattr__(self, attr):
+      >         path = _lazy_modules[self.name]
+      >         f, pathname, desc = imp.find_module(self.name, path)
+      >  
+      >         lf = sys.meta_path.pop()
+      >         imp.load_module(self.name, f, pathname, desc)
+      >         sys.meta_path.append(lf)
+      >  
+      >         self.__dict__ = sys.modules[self.name].__dict__
+      >         return self.__dict__[attr]
+      >  
+      > class LazyFinder(object):
+      >  
+      >     def find_module(self, name, path):
+      >         _lazy_modules[name] = path
+      >         return self
+      >  
+      >     def load_module(self, name):
+      >         return LazyModule(name)
+      >  
+      > sys.meta_path.append(LazyFinder())
+
 ### _<**ONLINE COMPILE **>
 
 
