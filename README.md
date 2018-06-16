@@ -2,6 +2,12 @@
 collect to github repo 
 use [like-on-github](https://github.com/willowj/like-on-github) modified from [Idnan](https://github.com/Idnan/like-on-github)
  
+### _<**DOCS**>
+
+
+ - ##### <**DOCS**> [git命令大全](https://gist.github.com/guweigang/9848271)    2018/6/16 
+    - note:  
+
 ### _<**PYTHON**>
 
 
