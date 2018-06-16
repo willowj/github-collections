@@ -73,3 +73,9 @@ use [like-on-github](https://github.com/willowj/like-on-github) modified from [I
       > 
       >  
 
+
+
+ - ##### <**collect**> [erguotou520/electron-ssr: Shadowsocksr client using electron](https://github.com/erguotou520/electron-ssr)    2018/6/16 
+    - note: 
+      >  
+
