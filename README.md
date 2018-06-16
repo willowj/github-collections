@@ -159,3 +159,11 @@ use [like-on-github](https://github.com/willowj/like-on-github) modified from [I
       > Copy Everything32.dll or Everything64.dll to your programs executable directory.
       > 
 
+
+
+ - ##### <**collect**> [C - voidtools](https://www.voidtools.com/support/everything/sdk/c/)    2018/6/17 
+    - > C
+      > Make sure to link to Everything32.lib or Everything64.lib.
+      > Copy Everything32.dll or Everything64.dll to your programs executable directory.
+      > 
+
