@@ -2,14 +2,6 @@
 collect to github repo 
 use [like-on-github](https://github.com/willowj/like-on-github) modified from [Idnan](https://github.com/Idnan/like-on-github)
  
-### _<**WINPC**>
-
-
- - ##### <**winpc**> [C - voidtools](https://www.voidtools.com/support/everything/sdk/c/)    2018/6/17 
-
-
-
- - ##### <**winpc**> [C - voidtools](https://www.voidtools.com/support/everything/sdk/c/)    2018/6/17 
 
 ### _<**LINUX TOOLS**>
 
@@ -150,26 +142,4 @@ use [like-on-github](https://github.com/willowj/like-on-github) modified from [I
       >  
 
 
-
- - ##### <**collect**> [C - voidtools](https://www.voidtools.com/support/everything/sdk/c/)    2018/6/17 
-
-
-
- - ##### <**collect**> [C - voidtools](https://www.voidtools.com/support/everything/sdk/c/)    2018/6/17 
-
-
-
- - ##### <**collect**> [C - voidtools](https://www.voidtools.com/support/everything/sdk/c/)    2018/6/17 
-
-
-
- - ##### <**collect**> [C - voidtools](https://www.voidtools.com/support/everything/sdk/c/)    2018/6/17 
-
-
-
- - ##### <**collect**> [C - voidtools](https://www.voidtools.com/support/everything/sdk/c/)    2018/6/17 
-
-
-
- - ##### <**collect**> [C - voidtools](https://www.voidtools.com/support/everything/sdk/c/)    2018/6/17 
 
