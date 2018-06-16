@@ -13,36 +13,7 @@ use [like-on-github](https://github.com/willowj/like-on-github) modified from [I
 
  - ##### <**python**> [Python 中 import 的机制与实现 - Python - 伯乐在线](http://python.jobbole.com/82604/)    2018/6/16 
     - note:  import hook ,lazy import
-    - > 
-      > 2
-      > 3
-      > 4
-      > 5
-      > 6
-      > 7
-      > 8
-      > 9
-      > 10
-      > 11
-      > 12
-      > 13
-      > 14
-      > 15
-      > 16
-      > 17
-      > 18
-      > 19
-      > 20
-      > 21
-      > 22
-      > 23
-      > 24
-      > 25
-      > 26
-      > 27
-      > 28
-      > 29
-      > 30
+    - > ```python
       > import sys
       > import imp
       >  
@@ -73,6 +44,7 @@ use [like-on-github](https://github.com/willowj/like-on-github) modified from [I
       >         return LazyModule(name)
       >  
       > sys.meta_path.append(LazyFinder())
+      > ```
 
 ### _<**ONLINE COMPILE **>
 
