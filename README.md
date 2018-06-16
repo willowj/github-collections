@@ -74,6 +74,12 @@ use [like-on-github](https://github.com/willowj/like-on-github) modified from [I
  - ##### <**winpc-tools**> [zhongyang219/TrafficMonitor: 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。](https://github.com/zhongyang219/TrafficMonitor)    2018/6/16 
     - > Traffic Monitor是一款用于Windows平台的网速监控悬浮窗软件，可以显示当前网速、CPU及内存利用率，支持嵌入到任务栏显示，支持更换皮肤、历史流量统计等功能。
 
+
+
+ - ##### <**winpc-tools**> [C - voidtools](https://www.voidtools.com/support/everything/sdk/c/)    2018/6/17 
+    - > Make sure to link to Everything32.lib or Everything64.lib.
+      > Copy Everything32.dll or Everything64.dll to your programs executable directory.
+
 ### _<**JQUERY**>
 
 
