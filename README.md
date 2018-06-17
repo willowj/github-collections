@@ -37,6 +37,10 @@ use [like-on-github](https://github.com/willowj/like-on-github) modified from [I
  - ##### <**DOCS**> [git命令大全](https://gist.github.com/guweigang/9848271)    2018/6/16 
     - note:  
 
+
+
+ - ##### <**docs**> [dabeaz/python-cookbook: Code samples from the "Python Cookbook, 3rd Edition", published by O'Reilly & Associates, May, 2013.](https://github.com/dabeaz/python-cookbook)    2018/6/18 
+
 ### _<**PYTHON**>
 
  - ##### <**python**> [Python 中 import 的机制与实现 - Python - 伯乐在线](http://python.jobbole.com/82604/)    2018/6/16 
