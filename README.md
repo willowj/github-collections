@@ -166,3 +166,7 @@ use [like-on-github](https://github.com/willowj/like-on-github) modified from [I
     - note: 
       >  
  
+
+
+ - ##### <**collect**> [jxtech/wechatpy: WeChat SDK for Python](https://github.com/jxtech/wechatpy)    2018/6/19 
+
