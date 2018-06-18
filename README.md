@@ -13,6 +13,10 @@ use [like-on-github](https://github.com/willowj/like-on-github) modified from [I
 
  - ##### <**py tools**> [pyenv/pyenv: Simple Python version management](https://github.com/pyenv/pyenv)    2018/6/18 
 
+
+
+ - ##### <**py tools**> [nvbn/thefuck: Magnificent app which corrects your previous console command.](https://github.com/nvbn/thefuck)    2018/6/19 
+
 ### _<**PY ASYNC**>
 
 
