@@ -3,6 +3,11 @@ collect to github repo
 use [like-on-github](https://github.com/willowj/like-on-github) modified from [Idnan](https://github.com/Idnan/like-on-github)
  
 
+### _<**CLOUD STORAGE**>
+
+
+ - ##### <**cloud storage**> [fcying/docker-seafile-pro: docker-seafile-pro](https://github.com/fcying/docker-seafile-pro/blob/master/service_seafile.sh)    2018/6/20 
+
 ### _<**PYTHON ASYNC**>
 
 
