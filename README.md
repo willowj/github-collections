@@ -18,6 +18,10 @@ use [like-on-github](https://github.com/willowj/like-on-github) modified from [I
  - ##### <**py finance**> [KingMagic/Quotes: Python编写的股票行情分析软件，数据来源网易及TuShare，界面采用Pyqt，所有界面采用扁平化可拉伸设计](https://github.com/KingMagic/Quotes)    2018/6/20 
     - > 采用扁平化可拉
 
+
+
+ - ##### <**py finance**> [jokerZH/tushare: TuShare is a utility for crawling historical data of China stocks](https://github.com/jokerZH/tushare)    2018/6/20 
+
 ### _<**CLOUD STORAGE**>
 
 
