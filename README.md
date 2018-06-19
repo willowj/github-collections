@@ -3,6 +3,11 @@ collect to github repo
 use [like-on-github](https://github.com/willowj/like-on-github) modified from [Idnan](https://github.com/Idnan/like-on-github)
  
 
+### _<**PY FINANCE**>
+
+
+ - ##### <**py finance**> [101labs/tushare: tushare sourcecode](https://github.com/101labs/tushare)    2018/6/20 
+
 ### _<**CLOUD STORAGE**>
 
 
