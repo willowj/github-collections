@@ -3,6 +3,11 @@ collect to github repo
 use [like-on-github](https://github.com/willowj/like-on-github) modified from [Idnan](https://github.com/Idnan/like-on-github)
  
 
+### _<**CHROME EXTENSION**>
+
+
+ - ##### <**chrome extension**> [musically-ut/lovely-forks: 💚 🍴 Show notable forks of Github repositories under their names.](https://github.com/musically-ut/lovely-forks)    2018/6/20 
+
 ### _<**PY FINANCE**>
 
 
