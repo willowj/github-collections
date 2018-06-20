@@ -22,6 +22,10 @@ use [like-on-github](https://github.com/willowj/like-on-github) modified from [I
 
  - ##### <**py finance**> [jokerZH/tushare: TuShare is a utility for crawling historical data of China stocks](https://github.com/jokerZH/tushare)    2018/6/20 
 
+
+
+ - ##### <**py finance**> [shidenggui/easytrader: 提供银河/国金/华泰客户端/同花顺客户端/雪球的基金、股票自动程序化交易以及自动打新，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合, 量化交易组件](https://github.com/shidenggui/easytrader)    2018/6/20 
+
 ### _<**CLOUD STORAGE**>
 
 
