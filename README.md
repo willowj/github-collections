@@ -3,6 +3,11 @@ collect to github repo
 use [like-on-github](https://github.com/willowj/like-on-github) modified from [Idnan](https://github.com/Idnan/like-on-github)
  
 
+### _<**TUTORIAL**>
+
+
+ - ##### <**tutorial**> [ruanyf/jstutorial: Javascript tutorial book](https://github.com/ruanyf/jstutorial)    2018/6/20 
+
 ### _<**CHROME EXTENSION**>
 
 
