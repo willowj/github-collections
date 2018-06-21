@@ -3,6 +3,11 @@ collect to github repo
 use [like-on-github](https://github.com/willowj/like-on-github) modified from [Idnan](https://github.com/Idnan/like-on-github)
  
 
+### _<**LIFESTYLE**>
+
+
+ - ##### <**lifestyle**> [listen1/listen1_chrome_extension: one for all free music in china (chrome extension, also works for firefox)](https://github.com/listen1/listen1_chrome_extension)    2018/6/21 
+
 ### _<**TUTORIAL**>
 
 
