@@ -8,6 +8,10 @@ use [like-on-github](https://github.com/willowj/like-on-github) modified from [I
 
  - ##### <**browser ext dev**> [sxei/chrome-plugin-demo: Chrome扩展demo](https://github.com/sxei/chrome-plugin-demo)    2018/6/21 
 
+
+
+ - ##### <**browser ext dev**> [shanhuhai/Chrome-extension-demo: 一些Chrome扩展的例子](https://github.com/shanhuhai/Chrome-extension-demo)    2018/6/21 
+
 ### _<**LIFESTYLE**>
 
 
