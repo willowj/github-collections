@@ -45,6 +45,10 @@ use [like-on-github](https://github.com/willowj/like-on-github) modified from [I
 
  - ##### <**py finance**> [shidenggui/easytrader: 提供银河/国金/华泰客户端/同花顺客户端/雪球的基金、股票自动程序化交易以及自动打新，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合, 量化交易组件](https://github.com/shidenggui/easytrader)    2018/6/20 
 
+
+
+ - ##### <**py finance**> [GitHub - shidenggui/easyquotation: 实时获取新浪 / 腾讯 的免费股票行情 / 集思路的分级基金行情](https://github.com/shidenggui/easyquotation)    2018/6/22 
+
 ### _<**CLOUD STORAGE**>
 
 
