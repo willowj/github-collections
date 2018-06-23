@@ -109,6 +109,10 @@ use [like-on-github](https://github.com/willowj/like-on-github) modified from [I
 
  - ##### <**docs**> [15.10 用Cython包装C代码 — python3-cookbook 2.0.0 文档](http://python3-cookbook-personal.readthedocs.io/zh_CN/latest/c15/p10_wrap_existing_c_code_with_cython.html)    2018/6/18 
 
+
+
+ - ##### <**docs**> [JavaScript Promise迷你书（中文版）](http://liubin.org/promises-book/#promise.catch)    2018/6/23 
+
 ### _<**PYTHON**>
 
  - ##### <**python**> [Python 中 import 的机制与实现 - Python - 伯乐在线](http://python.jobbole.com/82604/)    2018/6/16 
