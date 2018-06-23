@@ -68,6 +68,10 @@ use [like-on-github](https://github.com/willowj/like-on-github) modified from [I
 
  - ##### <**py tools**> [nvbn/thefuck: Magnificent app which corrects your previous console command.](https://github.com/nvbn/thefuck)    2018/6/19 
 
+
+
+ - ##### <**py tools**> [GitHub - dmeranda/demjson: Python module for JSON data encoding, including jsonlint. See the project Wiki here on Github. Also read the README at the bottom of this page, or the project homepage at](https://github.com/dmeranda/demjson)    2018/6/23 
+
 ### _<**PY ASYNC**>
 
 
