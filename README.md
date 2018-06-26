@@ -3,6 +3,11 @@ collect to github repo
 use [like-on-github](https://github.com/willowj/like-on-github) modified from [Idnan](https://github.com/Idnan/like-on-github)
  
 
+### _<**PC TOOLS**>
+
+
+ - ##### <**pc tools**> [ugetdm/uget-integrator: Native messaging host to integrate uGet Download Manager with web browsers](https://github.com/ugetdm/uget-integrator#installation)    2018/6/26 
+
 ### _<**PY NET**>
 
 
