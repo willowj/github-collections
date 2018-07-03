@@ -95,6 +95,10 @@ use [like-on-github](https://github.com/willowj/like-on-github) modified from [I
 
  - ##### <**py tools**> [gak/pycallgraph: pycallgraph is a Python module that creates call graphs for Python programs.](https://github.com/gak/pycallgraph)    2018/7/1 
 
+
+
+ - ##### <**py tools**> [pbrady/fastcache: C implementation of Python 3 lru_cache](https://github.com/pbrady/fastcache)    2018/7/3 
+
 ### _<**PY ASYNC**>
 
 
