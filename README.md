@@ -3,6 +3,11 @@ collect to github repo
 use [like-on-github](https://github.com/willowj/like-on-github) modified from [Idnan](https://github.com/Idnan/like-on-github)
  
 
+### _<**PY DOCS**>
+
+
+ - ##### <**py docs**> [yasoob/intermediatePython](https://github.com/yasoob/intermediatePython)    2018/7/3 
+
 ### _<**PC TOOLS**>
 
 
