@@ -8,6 +8,12 @@ use [like-on-github](https://github.com/willowj/like-on-github) modified from [I
 
  - ##### <**ui**> [mjmlio/mjml: MJML: the only framework that makes responsive-email easy](https://github.com/mjmlio/mjml)    2018/7/4 
 
+
+
+ - ##### <**ui**> [jonathandion/awesome-emails: ✉️ An awesome list of resources to build better emails.](https://github.com/jonathandion/awesome-emails)    2018/7/4 
+    - note: emails
+    - > emails
+
 ### _<**PY DOCS**>
 
 
