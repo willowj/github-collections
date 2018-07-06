@@ -75,6 +75,10 @@ use [like-on-github](https://github.com/willowj/like-on-github) modified from [I
 
  - ##### <**py finance**> [GitHub - shidenggui/easyquotation: 实时获取新浪 / 腾讯 的免费股票行情 / 集思路的分级基金行情](https://github.com/shidenggui/easyquotation)    2018/6/22 
 
+
+
+ - ##### <**py finance**> [Chandlercjy/OnePy: Python Backtesting library for OnePiece in trading.](https://github.com/Chandlercjy/OnePy)    2018/7/6 
+
 ### _<**CLOUD STORAGE**>
 
 
