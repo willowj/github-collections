@@ -19,6 +19,10 @@ use [like-on-github](https://github.com/willowj/like-on-github) modified from [I
 
  - ##### <**py docs**> [yasoob/intermediatePython](https://github.com/yasoob/intermediatePython)    2018/7/3 
 
+
+
+ - ##### <**py docs**> [前言 · Python3网络爬虫开发实战](https://germey.gitbooks.io/python3webspider/)    2018/7/7 
+
 ### _<**PC TOOLS**>
 
 
