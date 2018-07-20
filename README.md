@@ -3,6 +3,11 @@ collect to github repo
 use [like-on-github](https://github.com/willowj/like-on-github) modified from [Idnan](https://github.com/Idnan/like-on-github)
  
 
+### _<**CS BASE**>
+
+
+ - ##### <**cs base**> [《算法珠玑(Java版)》 - 书栈网(BookStack.CN)](https://www.bookstack.cn/books/algorithm-essentials-java)    2018/7/20 
+
 ### _<**UI**>
 
 
